@@ -1,2 +1,6 @@
 Java
 SQL
+Leguajes que me gustaria aprender 
+C++
+Python
+c#
